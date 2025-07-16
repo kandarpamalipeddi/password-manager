@@ -1,7 +1,7 @@
 # password-manager
 Python based Password manager for Windows servers
 
-Run `pip install -f requirements.txt` to install all the required libraries.
+Run `pip install -r requirements.txt` to install all the required libraries.
 
 Run `pyinstaller.exe --onefile .\password_manager.py` to generate a single executable file.
 
