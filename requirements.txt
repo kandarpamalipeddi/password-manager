@@ -1,0 +1,6 @@
+sqlite3
+cryptography
+base64
+hashlib
+tkinter
+pyinstaller
